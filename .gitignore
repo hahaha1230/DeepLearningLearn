@@ -1,3 +1,13 @@
 *.pth
 data_set/
 *.idea/
+data/
+save_weights/
+
+# 忽略所有的模型文件
+*.pth
+*.onnx
+
+
+*.txt
+
